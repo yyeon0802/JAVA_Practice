@@ -6,7 +6,7 @@ package step6_02.method;
  *  1) 값을 반환한다.
  *  2) 메서드를 종료한다.
  *  3) 메서드에서 return값은 1개이다.
- *  
+  
  */
 
 class ReturnTest {
